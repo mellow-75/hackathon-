@@ -1,0 +1,43 @@
+1. LogisticRegression :
+    Cross-Validation F1 scores: [0.91411936 0.87190684 0.86171761 0.86171761 0.85422741]
+    Mean Cross-Validation F1 score: 0.8727377663479615
+    Test F1 score: 0.8882421420256111
+2.  MLPClassifier :
+    Cross-Validation F1 scores: [0.91994178 0.8937409  0.88064047 0.8937409  0.90524781]
+    Mean Cross-Validation F1 score: 0.898662371998082
+    Test F1 score: 0.9173457508731082
+3. DesiginTreeClassifier:
+    Cross-Validation F1 scores: [0.85443959 0.84570597 0.80786026 0.83697234 0.83673469]
+    Mean Cross-Validation F1 score: 0.8363425719632831
+    Test F1 score: 0.8370197904540163
+ 4.  NaiveBayes :
+     Cross-Validation F1 scores: [0.67103348 0.68704512 0.70451237 0.73944687 0.68367347]
+    Mean Cross-Validation F1 score: 0.6971422630187446
+    Test F1 score: 0.681024447031432
+5 . SVM :
+    1. for c = 1
+        Cross-Validation F1 scores: [0.91266376 0.89082969 0.88064047 0.8922853  0.91253644]
+        Mean Cross-Validation F1 score: 0.8977911314244975
+        Test F1 score: 0.9138533178114088
+    2 for c = 0.8 
+        Cross-Validation F1 scores: [0.90538574 0.88500728 0.86754003 0.88500728 0.90816327]
+        Mean Cross-Validation F1 score: 0.8902207171078039
+        Test F1 score: 0.9115250291036089
+    3. For c = 5
+           Cross-Validation F1 scores: [0.93595342 0.91703057 0.90101892 0.90247453 0.91690962]
+        Mean Cross-Validation F1 score: 0.9146774118256161
+        Test F1 score: 0.9278230500582072
+    4 . C= 10 
+        Cross-Validation F1 scores: [0.93304221 0.91120815 0.90247453 0.90247453 0.91399417]
+        Mean Cross-Validation F1 score: 0.9126387173709158
+        Test F1 score: 0.9220023282887078
+    5 . C= 8 
+        Cross-Validation F1 scores: [0.93449782 0.91266376 0.90247453 0.90101892 0.91690962]
+        Mean Cross-Validation F1 score: 0.9135129285650629
+        Test F1 score: 0.9220023282887078
+    6. c = 7
+        Cross-Validation F1 scores: [0.93304221 0.91266376 0.90101892 0.89956332 0.91836735]
+        Mean Cross-Validation F1 score: 0.9129311113091525
+        Test F1 score: 0.9220023282887078
+
+
